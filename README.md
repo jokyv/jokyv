@@ -1,38 +1,36 @@
 # 👋 Hi, I'm John Kyvetos (Jokyv)!
 
-## 🚀 About Me
+## 📈 About Me
 
-I'm a passionate **NixOS enthusiast** and **system configuration expert** with a deep love for declarative infrastructure and reproducible environments. I specialize in creating robust, maintainable systems using Nix and modern DevOps practices.
+I'm a **Quantitative Trader** with 10 years of experience across FX, Futures, and Crypto markets. I specialize in processing large datasets to optimize execution algorithms, manage risk, and identify toxic flow patterns. Passionate about leveraging cutting-edge technology and automation in trading systems.
 
-- 🔭 Currently working on **NixOS configurations** and **Home Manager** setups
-- 🌱 Exploring **container orchestration** and **automated deployment** strategies
-- 👯 Looking to collaborate on **open-source Nix packages** and **system tools**
-- 🤝 Seeking help with **advanced NixOS module development**
-- 💬 Ask me about **NixOS**, **home management**, and **system automation**
-- 📫 How to reach me: **johnkyvetos@gmail.com**
-- ⚡ Fun fact: I believe in **reproducible everything** - from development environments to production deployments!
+- 🔭 **Currently**: Developing automated trading strategies and execution systems
+- 🌱 **Learning**: Advanced NixOS configurations for reproducible trading infrastructure
+- 👯 **Collaborating**: Open to discussions about quantitative finance, algorithmic trading, and system automation
+- 🤝 **Help with**: Trading system architecture, performance optimization, and automation
+- 💬 **Ask me about**: Quantitative trading, risk management, Python/Rust for finance, and NixOS automation
+- 📫 **Reach me**: johnkyvetos@gmail.com
+- ⚡ **Philosophy**: Reproducible environments and robust automation are key to systematic trading success
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Core Skills
+### Quantitative Finance & Trading
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### System Infrastructure
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Configuration Management
+### Configuration & Automation
 ![Home Manager](https://img.shields.io/badge/Home%20Manager-5D52A8?style=for-the-badge&logo=nixos&logoColor=white)
-![Flakes](https://img.shields.io/badge/Nix%20Flakes-7E7ADC?style=for-the-badge&logo=nixos&logoColor=white)
-
-### Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Nix Flakes](https://img.shields.io/badge/Nix%20Flakes-7E7ADC?style=for-the-badge&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Systemd](https://img.shields.io/badge/systemd-2478C8?style=for-the-badge&logo=systemd&logoColor=white)
 
 ---
 
@@ -80,30 +78,41 @@ I'm a passionate **NixOS enthusiast** and **system configuration expert** with a
 
 ---
 
-## 📝 Blog Posts & Articles
-
-### Recent NixOS Adventures
-- [🔧 Setting Up Universal NixOS Installer with Auto-Detection](https://github.com/jokyv/nixos-config) - My experience with automated system deployment
-- [🏠 Home Manager Mastery: Complete User Environment Setup](https://github.com/jokyv/nixos-config) - Managing dotfiles and user configurations
-- [⚡ System Optimization with NixOS](https://github.com/jokyv/nixos-config) - Performance tuning and system hardening
-
----
-
-## 🎯 Current Focus Areas
+## 💡 Featured Focus Areas
 
 <div align="center">
 
-### 📦 Nix Package Development
-Creating and maintaining high-quality Nix packages for the community
+### 📊 Quantitative Trading
+Automated strategy development, execution optimization, and risk management across multiple asset classes
 
-### 🔒 Security Hardening
-Implementing security best practices in NixOS configurations
+### 🖥️ System Architecture
+Building reproducible, high-performance trading infrastructure using NixOS and modern system design principles
 
-### 🚀 Automation
-Developing tools to streamline system deployment and management
+### 🤖 Automation & Performance
+Developing backtesting frameworks and automated trading systems with rigorous testing and optimization
 
-### 📚 Documentation
-Improving NixOS documentation and creating comprehensive guides
+### 🔧 NixOS Integration
+Applying declarative system configuration to create stable, reproducible trading environments
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+<div align="center">
+
+### ⚡ Trading System Development
+Enhancing automated trading strategies and execution algorithms for improved performance
+
+### 🔧 Infrastructure Optimization
+Leveraging NixOS to build more robust, reproducible trading environments
+
+### 📈 Data Processing
+Optimizing large-scale data analysis pipelines for market data and strategy validation
+
+### 🤖 Automation Frameworks
+Developing comprehensive backtesting and automation tools for systematic trading
 
 </div>
 
@@ -127,9 +136,16 @@ Custom Nix packages and overlays for enhanced system functionality
 
 ---
 
-## 🤝 Contributing to Open Source
+## 🤝 Open to Collaboration
 
-I actively contribute to the NixOS ecosystem and believe in the power of collaborative development. If you're working on interesting Nix-related projects, I'd love to collaborate!
+I'm always interested in connecting with others working on:
+
+- **Quantitative finance and algorithmic trading systems**
+- **High-performance computing and system optimization**
+- **NixOS and declarative infrastructure for financial applications**
+- **Open-source tools for trading and data analysis**
+
+Feel free to reach out if you're working on interesting projects in these areas!
 
 ---
 
@@ -142,19 +158,19 @@ I actively contribute to the NixOS ecosystem and believe in the power of collabo
 ---
 
 <div align="center">
-  <i>"In Nix we trust - reproducible, declarative, and infinitely configurable"</i>
+  <i>"In quantitative trading we trust - combining rigorous analysis with robust automation"</i>
 </div>
 
 ---
 
 ## 🙏 Thanks for Visiting!
 
-Feel free to explore my repositories, fork anything interesting, and don't hesitate to reach out if you'd like to collaborate on NixOS or system automation projects!
+Feel free to explore my repositories and don't hesitate to reach out if you're interested in quantitative trading, system automation, or NixOS for financial applications!
 
-**Happy Hacking!** 🚀
+**Happy Trading & Coding!** 📈💻
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using NixOS and lots of ☕</sub>
+  <sub>Built with ❤️ using Python, Rust, and lots of ☕ fueled by market data</sub>
 </div>
