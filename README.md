@@ -9,7 +9,6 @@ I'm a **Quantitative Trader** with 10 years of experience across FX, Futures, an
 - 👯 **Collaborating**: Open to discussions about quantitative finance, algorithmic trading, and system automation
 - 🤝 **Help with**: Trading system architecture, performance optimization, and automation
 - 💬 **Ask me about**: Quantitative trading, risk management, Python/Rust for finance, and NixOS automation
-- 📫 **Reach me**: johnkyvetos@gmail.com
 - ⚡ **Philosophy**: Reproducible environments and robust automation are key to systematic trading success
 
 ---
@@ -20,49 +19,19 @@ I'm a **Quantitative Trader** with 10 years of experience across FX, Futures, an
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=polars&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-5A8F7B?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 ### System Infrastructure
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Configuration & Automation
 ![Home Manager](https://img.shields.io/badge/Home%20Manager-5D52A8?style=for-the-badge&logo=nixos&logoColor=white)
 ![Nix Flakes](https://img.shields.io/badge/Nix%20Flakes-7E7ADC?style=for-the-badge&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jokyv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Jokyv's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokyv&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jokyv&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🔥 GitHub Activity
-
-<!--START_SECTION:activity-->
-<!-- Insert GitHub activity feed here -->
-<!--END_SECTION:activity-->
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jokyv&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -93,44 +62,6 @@ Developing backtesting frameworks and automated trading systems with rigorous te
 
 ### 🔧 NixOS Integration
 Applying declarative system configuration to create stable, reproducible trading environments
-
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-<div align="center">
-
-### ⚡ Trading System Development
-Enhancing automated trading strategies and execution algorithms for improved performance
-
-### 🔧 Infrastructure Optimization
-Leveraging NixOS to build more robust, reproducible trading environments
-
-### 📈 Data Processing
-Optimizing large-scale data analysis pipelines for market data and strategy validation
-
-### 🤖 Automation Frameworks
-Developing comprehensive backtesting and automation tools for systematic trading
-
-</div>
-
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-### [🏠 nixos-config](https://github.com/jokyv/nixos-config)
-My personal NixOS configuration with Home Manager setup, featuring:
-- ✨ Universal installer with auto-detection
-- 🎨 Theming and customization
-- 🔧 Development environment setup
-- 🛡️ Security configurations
-
-### [📦 Personal Nix Packages](https://github.com/jokyv/nixos-config/packages)
-Custom Nix packages and overlays for enhanced system functionality
 
 </div>
 
