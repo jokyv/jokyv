@@ -19,7 +19,7 @@ I'm a **Quantitative Trader** with 10 years of experience across FX, Futures, an
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=polars&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-F9A03C?style=for-the-badge&logo=polars&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-5A8F7B?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 ### System Infrastructure
