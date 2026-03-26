@@ -16,40 +16,37 @@ I'm a **Quantitative Trader** with 10 years of experience across FX, Futures, an
 ## 🛠️ Technologies & Tools
 
 ### Quantitative Finance & Trading
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-F9A03C?style=for-the-badge&logo=polars&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-5A8F7B?style=for-the-badge&logo=lightgbm&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Polars](https://img.shields.io/badge/Polars-F9A03C?style=for-the-badge&logo=polars&logoColor=white)](https://pola.rs)
+[![LightGBM](https://img.shields.io/badge/LightGBM-5A8F7B?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io)
 
 ### System Infrastructure
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ### Configuration & Automation
-![Home Manager](https://img.shields.io/badge/Home%20Manager-5D52A8?style=for-the-badge&logo=nixos&logoColor=white)
-![Nix Flakes](https://img.shields.io/badge/Nix%20Flakes-7E7ADC?style=for-the-badge&logo=nixos&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Home Manager](https://img.shields.io/badge/Home%20Manager-5D52A8?style=for-the-badge&logo=nixos&logoColor=white)](https://nix-community.github.io/home-manager/)
+[![Nix Flakes](https://img.shields.io/badge/Nix%20Flakes-7E7ADC?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.wiki/wiki/Flakes)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnkyvetos@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnkyvetos)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnkyvetos)
 
-</div>
 
 ---
 
 ## 💡 Featured Focus Areas
 
-<div align="center">
 
 ### 📊 Quantitative Trading
 Automated strategy development, execution optimization, and risk management across multiple asset classes
@@ -63,7 +60,6 @@ Developing backtesting frameworks and automated trading systems with rigorous te
 ### 🔧 NixOS Integration
 Applying declarative system configuration to create stable, reproducible trading environments
 
-</div>
 
 ---
 
@@ -82,15 +78,11 @@ Feel free to reach out if you're working on interesting projects in these areas!
 
 ## 📈 Visitor Count
 
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jokyv.jokyv-git-profile" alt="Visitors">
-</div>
 
 ---
 
-<div align="center">
   <i>"In quantitative trading we trust - combining rigorous analysis with robust automation"</i>
-</div>
 
 ---
 
@@ -102,6 +94,4 @@ Feel free to explore my repositories and don't hesitate to reach out if you're i
 
 ---
 
-<div align="center">
   <sub>Built with ❤️ using Python, Rust, and lots of ☕ fueled by market data</sub>
-</div>
