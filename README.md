@@ -63,31 +63,6 @@ Applying declarative system configuration to create stable, reproducible trading
 
 ---
 
-## 📊 GitHub Stats
-
-[![Jokyv's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokyv&show_icons=true&hide_border=true)](https://github.com/jokyv)
-
----
-
-## 📌 Featured Repos
-
-<table>
-  <tr>
-    <td><a href="https://github.com/jokyv/nixos-config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=nixos-config&hide_border=true" alt="nixos-config" /></a></td>
-    <td><a href="https://github.com/jokyv/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=dotfiles&hide_border=true" alt="dotfiles" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/jokyv/scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=scripts&hide_border=true" alt="scripts" /></a></td>
-    <td><a href="https://github.com/jokyv/jokyv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=jokyv&hide_border=true" alt="jokyv" /></a></td>
-  </tr>
-</table>
-
----
-
-  <i>"In quantitative trading we trust - combining rigorous analysis with robust automation"</i>
-
----
-
 ## 🙏 Thanks for Visiting!
 
 Feel free to explore my repositories and don't hesitate to reach out if you're interested in quantitative trading, system automation, or NixOS for financial applications!
