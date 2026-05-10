@@ -2,7 +2,7 @@
 
 ## 📈 About Me
 
-I'm a **Quantitative Trader** with 10 years of experience across FX, Futures, and Crypto markets. I specialize in processing large datasets to optimize execution algorithms, manage risk, and identify toxic flow patterns. Passionate about leveraging cutting-edge technology and automation in trading systems.
+I'm a **Quantitative Trader** with 10 years across FX, Futures, and Crypto. I build automated trading systems, execution tools, and risk workflows with a focus on data, speed, and reproducibility.
 
 - 🔭 **Currently**: Developing automated trading strategies and execution systems
 - 🌱 **Learning**: Advanced NixOS configurations for reproducible trading infrastructure
@@ -63,22 +63,24 @@ Applying declarative system configuration to create stable, reproducible trading
 
 ---
 
-## 🤝 Open to Collaboration
+## 📊 GitHub Stats
 
-I'm always interested in connecting with others working on:
-
-- **Quantitative finance and algorithmic trading systems**
-- **High-performance computing and system optimization**
-- **NixOS and declarative infrastructure for financial applications**
-- **Open-source tools for trading and data analysis**
-
-Feel free to reach out if you're working on interesting projects in these areas!
+[![Jokyv's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokyv&show_icons=true&hide_border=true)](https://github.com/jokyv)
 
 ---
 
-## 📈 Visitor Count
+## 📌 Featured Repos
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jokyv.jokyv-git-profile" alt="Visitors">
+<table>
+  <tr>
+    <td><a href="https://github.com/jokyv/nixos-config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=nixos-config&hide_border=true" alt="nixos-config" /></a></td>
+    <td><a href="https://github.com/jokyv/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=dotfiles&hide_border=true" alt="dotfiles" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jokyv/scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=scripts&hide_border=true" alt="scripts" /></a></td>
+    <td><a href="https://github.com/jokyv/jokyv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jokyv&repo=jokyv&hide_border=true" alt="jokyv" /></a></td>
+  </tr>
+</table>
 
 ---
 
