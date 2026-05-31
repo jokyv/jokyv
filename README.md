@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Kyvetos (Jokyv)!
+# Hi, I'm John Kyvetos (Jokyv)!
 
 ## 📈 About Me
 
